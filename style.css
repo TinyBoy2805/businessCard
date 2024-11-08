@@ -98,7 +98,7 @@ body
 #title p
 {
     color: var(--c6);
-    font-size: 17px;
+    font-size: 14px;
     margin-top: 0.3rem;
     font-weight: 500;
 }
@@ -232,13 +232,10 @@ body
 
 .card2 .content-container i
 {
-    font-size: 80px;
+    font-size: 120px;
     color: var(--c5);
 }
-.card2 .content-container h2
-{
-    color: var(--c6);
-}
+
 
 .card2 .footer
 {
